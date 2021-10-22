@@ -57,4 +57,4 @@ def test_tweets_num():
     if result == ma.twitter_search.total_tweets:
         print('the tweets number is correct')
     else:
-        print('the numbes is correct')
+        print('the numbes is not correct')
