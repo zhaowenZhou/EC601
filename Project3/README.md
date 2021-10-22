@@ -8,6 +8,7 @@ Getting the credential is the first step to search tweets and do the sentiment a
 
 
 Run time
+
 This code can return the time of searching all tweets.
 Run the whole process and count the time.
 The expected time should be as small as possible.
@@ -15,6 +16,7 @@ The searching time is very important for the experiece of users. If the time is 
 
 
 Wrong input
+
 This code can show whether the process has output when the input word is a punctuation.
 Run the code and input '!'
 It should return 'does out output'
@@ -22,6 +24,7 @@ Searching a punctuation is meaningless thus the code should not return any resul
 
 
 Input sentence
+
 This code can show whether the process has output when the input word is a punctuation.
 Run the code and input a sentence
 It should return 'does out output'
@@ -29,6 +32,7 @@ Searching a sentence is meaningless thus the code should not return any results 
 
 
 Tweets num
+
 This code can compare the number of tweets searched and the tweets number user input
 Run the code, get the number of the output of the function 'twitter_search' and compare it to the input of the user.
 Two numbers should be equal.
